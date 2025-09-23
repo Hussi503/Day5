@@ -3,7 +3,7 @@ export const sliderItems = [
     id: "1",
     img: "assets/braclet/main.jfif",
     title: "Build and Deployment has been succesfull using Ansible ",
-    desc: "This is now in new commit",
+    desc: "This is now in DAY5",
     bg: "green",
   },
   {
