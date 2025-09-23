@@ -4,7 +4,7 @@ export const sliderItems = [
     img: "assets/braclet/main.jfif",
     title: "Build and Deployment has been succesfull using Ansible ",
     desc: "This is now in DAY5",
-    bg: "green",
+    bg: "pink",
   },
   {
     id: "2",
